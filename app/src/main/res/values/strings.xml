@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Walmart Exercise</string>
+    <string name="network_error">Network disconnected</string>
+    <string name="network_success">Network Connected</string>
+    <string name="error">We are not connected to the internet, showing you the last image we have.</string>
+</resources>
